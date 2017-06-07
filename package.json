@@ -1,0 +1,25 @@
+{
+  "name": "brokerjs",
+  "version": "1.0.0",
+  "description": "A simulator for market and brokers interaction",
+  "main": "market.js",
+  "scripts": {
+    "start": "node market.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheshireCatNick/brokerjs.git"
+  },
+  "keywords": [
+    "stock",
+    "bitcoin",
+    "simulator",
+    "broker"
+  ],
+  "author": "Nicky and Eraser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheshireCatNick/brokerjs/issues"
+  },
+  "homepage": "https://github.com/CheshireCatNick/brokerjs#readme"
+}
